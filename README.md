@@ -13,4 +13,6 @@ Now, if you are police, then you need to find out who is thief. And if you misse
 
 And same happens with the Player 2, 3, 4, 5 and 6 ( Computer automatically picks any random person excluding themself)
 
-At the end, calculate total marks and declare winner
+At the end, calculate total marks and declare winner.
+
+
